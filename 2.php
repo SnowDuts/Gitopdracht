@@ -9,6 +9,6 @@
       <link rel="stylesheet" href="CSS/style.css">
       <title>Kutchinees</title>
     </head>
-        <body bgcolor="lightblue">
+        <body>
         </body>
     </html>
