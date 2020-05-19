@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Kutchinees</title>
-    <p style="color:red">KONO DIO DA</p>
+    <p style="color:yellow">KONO DIO DA</p>
   </head>
   <body>
 
